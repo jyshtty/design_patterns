@@ -1,3 +1,8 @@
+# Ensure that only one instance of a class is created throughout the program, no matter how many times you try to instantiate it.
+
+
+
+
 class Singleton:
     _is_instance = None
 
