@@ -1,5 +1,7 @@
 # Ensure that only one instance of a class is created throughout the program, no matter how many times you try to instantiate it.
 
+# __new__ is a special method in Python used to create a new instance (before __init__ is called).
+
 
 
 
